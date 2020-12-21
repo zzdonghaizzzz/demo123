@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "5fbbcfddc56bcd34f80ccefc"
+  },
+  "nameProduct": "QUẦN SHORT",
+  "cateProduct": "Quần",
+  "priceProduct": 500000,
+  "imgProduct": "1606143965621-Quan-short.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbd00ac56bcd34f80ccefd"
+  },
+  "nameProduct": "TKY OLY ",
+  "cateProduct": "Quần",
+  "priceProduct": 900000,
+  "imgProduct": "1606144010587-TKY OLY BOS SHO.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbd061c56bcd34f80ccefe"
+  },
+  "nameProduct": "QUẦN SHORT ",
+  "cateProduct": "Quần",
+  "priceProduct": 500000,
+  "imgProduct": "1606144097100-Quan_short_Club_3_Soc_9_inch_DJen_DU0874_01_laydown.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbd0c1c56bcd34f80cceff"
+  },
+  "nameProduct": "QUẦN SHORT",
+  "cateProduct": "Quần",
+  "priceProduct": 900000,
+  "imgProduct": "1606144193897-Quan_short_Estro_19_DJen_FP9596_21_model.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbd160c56bcd34f80ccf00"
+  },
+  "nameProduct": "Áo thun",
+  "cateProduct": "Áo",
+  "priceProduct": 900000,
+  "imgProduct": "1606144352656-images.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbbd184c56bcd34f80ccf02"
+  },
+  "nameProduct": "áo thun",
+  "cateProduct": "Áo",
+  "priceProduct": 900000,
+  "imgProduct": "1606144388970-images (1).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdae9f25374a43584fcab10"
+  },
+  "nameProduct": "1234",
+  "cateProduct": "Quần",
+  "priceProduct": 1234,
+  "__v": 0
+}]
